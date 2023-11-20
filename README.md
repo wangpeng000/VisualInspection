@@ -1,2 +1,2 @@
 # VisualInspection
-The code for SVDD anomaly detection
+The code will be released soon
