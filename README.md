@@ -1,5 +1,5 @@
 # Self-supervised Context Learning for Visual Inspection of Industrial Defects (SCL-VI)
-<a href="https://arxiv.org/abs/2311.06504"><img src="https://img.shields.io/badge/arXiv-2211.12853-b31b1b.svg" height=22.5></a>
+<a href="https://arxiv.org/abs/2311.06504"><img src="https://img.shields.io/badge/arXiv-2311.06504-b31b1b.svg" height=22.5></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/WU-CVGL/BAD-NeRF" height=22.5></a>
 
 The code will be released soon.
