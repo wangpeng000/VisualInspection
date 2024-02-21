@@ -8,6 +8,7 @@ We address the challenge of detecting object defects through the self-supervised
 ![segmentation](./doc/svdd_result.jpeg)
 
 ## Dependencies
+Since I did this project a long time ago, there may be some issues with environmental dependencies.
 - Tested with Python 3.8
 - [Pytorch](http://pytorch.org/) v1.6.0
 
